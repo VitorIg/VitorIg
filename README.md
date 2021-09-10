@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, me chamo Vitor, tenho 23 anos de idade e eu moro em Carapicuíba São Paulo. 
 
-<!--
-**VitorIg/VitorIg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou fazendo graduação de sistema de informação pela Universidade Paulista e estou no 4º semestre, a data para o termino da graduação será em novembro de 2023. 
 
-Here are some ideas to get you started:
+Sempre gostei da tecnologia em seu todo, mas depois que iniciei este curso tenho me apaixonado cada vez mais por esta área.. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho na empresa Nestlé como promotor merchandising, mas estou em busca de novos desafios na programação. 
+
+Link do meu Linkdin: https://www.linkedin.com/in/vitor-honorio-19524b180/
+
+Link do meu Facebook: https://www.facebook.com/profile.php?id=100008289031187
+
+Vamos nos conectar!?
