@@ -10,4 +10,4 @@ Link do meu Linkdin: https://www.linkedin.com/in/vitor-honorio-19524b180/
 
 Link do meu Facebook: https://www.facebook.com/profile.php?id=100008289031187
 
-Vamos nos conectar!?.
+Vamos nos conectar!?
